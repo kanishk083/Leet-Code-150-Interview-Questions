@@ -27,3 +27,5 @@ var threeSum = function(nums) {
     }
     return res;
 };
+
+console.log('sum')
